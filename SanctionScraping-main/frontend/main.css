@@ -1,0 +1,7 @@
+.intro {
+	background-repeat: no-repeat;
+	background-image: radial-gradient(rgb(0, 0, 0, 0.3), rgb(0, 0, 0, 0.75)),
+		url("2.jpg");
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
